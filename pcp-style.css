@@ -1,0 +1,64 @@
+#site-title {
+	margin-top: 20px;
+	text-align: center;
+	font-style: italic;
+}
+
+.navbar-mod {
+	color: #ffffff;
+}
+
+.navbar-nav > li {
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.article-container {
+	background-color: #ffffff;
+	padding: 15px;
+	border: 1px solid #e2e2e0;
+}
+
+.article-col {
+	background-color: #f7f7f5;
+	margin: 10px 20px 10px 20px;
+	border: 1px solid #e2e2e0;
+	padding: 20px;
+}
+
+.writers-col {
+	background-color: #ffffff;
+	border: 1px solid #e2e2e0;
+	padding-left: 20px;
+	padding-top: 15px;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+.a-nonstandard {
+	text-decoration: underline;
+	color: blue;
+
+}
+
+.a-nonstandard:hover {
+	text-decoration: none;
+	color: blue;
+}
+
+a:hover {
+	text-decoration: none;
+	color: #484848;
+}
+
+body {
+	font-family: "Times New Roman", Times, serif;
+	background-color: #f7f7f5;
+}
+
+.badge {
+	font-family: "Helvetica Neue";
+}
